@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = ByStar::VERSION
   s.authors     = ["Ryan Bigg", "Johnny Shields"]
   s.email       = ["radarlistener@gmail.com"]
-  s.homepage    = "http://github.com/radar/by_star"
+  s.homepage    = "https://github.com/vempativamsikrishna/by_star"
   s.summary     = "ActiveRecord and Mongoid extension for easier date scopes and time ranges"
   s.description = "ActiveRecord and Mongoid extension for easier date scopes and time ranges"
 
